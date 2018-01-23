@@ -1,0 +1,42 @@
+1.i to insert
+2.x to delete 
+3.cltr-r to redo a to appened text
+4.a to append the text
+5.:wq to save and exit
+6.:ql to trash all changes
+7. dw move the cursor
+8.2w to move the cursor towards forward
+9.dw to to move the cursor to the the begining of the word
+10.2w to move towards forward
+11.3e to move the cursor to end of the third forward
+12.0 to move the start of the line
+13.p to puts the previously deleted text after the cursor 
+14.dd to delete the line and  store itin
+15.vim register and p to put the line
+16.r to replace the letter 
+17.ce deletes the word and places you in insert mode
+18.g to move you to the bottom of the file
+19.gg to move you to start of the file
+20.% to find a matching 
+21.:s to subtitle new for old where g is globally
+22./ to back ward search
+23./ to follow the search
+24.:| to run the shell command like:|dir,:||s
+25.:w to test the file you chose
+26.v to start the visual modes for selecting lines
+27.:r file will insert the content
+28.R to replace more than one character 
+29.y o[perator to copy the text
+30.yw copy yanks one word
+31.o opens the file below the cursor
+32.O opens the lines above the cursor
+33.a to insert text after the cursor 
+34.A inserts the text after the end
+35.e command moves the end of the forward
+36.y operates copies text p to paste
+37.R to enter replaces mode untill <esc> is pressed 
+38.ctrl-w to jumb one window to another
+39.e and press ctrl+d to list all the command name starts
+40.:e and press tab to complete the command
+ 
+
